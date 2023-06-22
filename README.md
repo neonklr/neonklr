@@ -40,6 +40,8 @@
 ![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=Keras)
 ![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-black?style=for-the-badge&logo=scikit-learn)
 ![Decentraland](https://img.shields.io/badge/-Decentraland-black?style=for-the-badge&logo=Decentraland)
+![Metaverse](https://img.shields.io/badge/-Metaverse-black?style=for-the-badge&logo=Metaverse)
+![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=Blender)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
