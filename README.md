@@ -1,6 +1,6 @@
 <h1 align="center">Hello Geeks 👋, I'm Rishaab Kalra</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;AI+Enthusiast;Innovator+and+Problem+Solver;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;AI+Enthusiast;Innovator+and+Problem+Solver;Visit+me+on+neonklr.github.io;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <br>
@@ -78,7 +78,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 <!--   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:neonkalra@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/neonklr"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/neonklr/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
