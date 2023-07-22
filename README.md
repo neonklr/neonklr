@@ -51,6 +51,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-darkblue?style=for-the-badge&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-darkblue?style=for-the-badge&logo=confluence)
 
 
 
