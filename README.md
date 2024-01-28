@@ -75,7 +75,7 @@
 
 
 
-## 🙋‍♀️ Let's Connect
+## 🤝 Let's Connect
 <p align="center">
 <!--   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:neonkalra@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
